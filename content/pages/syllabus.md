@@ -26,11 +26,48 @@ Class Requirements
 
 Grades are based on four problem sets, an emperical project involving replication and extension of published work, and a three-hour final during exam week. In addition, there are two ungraded problem sets, one at the beginning and one at the end of the course. 
 
-| ACTIVITY | POINTS |
-| --- | --- |
-| Four problem sets | 10 |
-| Empirical project | 30 |
-| Final exam | 40 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITY
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Four problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Empirical project
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
  Books
 ------
