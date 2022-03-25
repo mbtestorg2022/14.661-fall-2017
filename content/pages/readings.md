@@ -49,21 +49,21 @@ C. Romer, "[Spurious Volatility in Historical Unemployment Data](http://www.jour
 
 C. Goldin and R. Margo, “[The Great Compression: The Wage Structure in the United States at Mid-century](http://www.nber.org/papers/w3817),” _Quarterly Journal of Economics_, February 1992.
 
-D. Autor and M. Duggan, " ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Rise in the Disability Rolls and the Decline in Unemployment (PDF)](https://economics.mit.edu/files/11573)," _Quarterly Journal of Economics_, February 2003.
+D. Autor and M. Duggan, " [The Rise in the Disability Rolls and the Decline in Unemployment (PDF)](https://economics.mit.edu/files/11573)," _Quarterly Journal of Economics_, February 2003.
 
 H. Farber, "[Job Loss and the Decline in Job Security in the United States](http://www.nber.org/chapters/c10822),” in Abraham, K. Spletzer, J. and Harper, M., eds., _Labor in the New Economy_, University of Chicago, 2010.
 
-L. Katz and D. Autor, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Changes in the Wage Structure and Earnings Inequality" (PDF - 6.2MB)](https://economics.mit.edu/files/11676), chapter 26 in \[HOLE 3A\].
+L. Katz and D. Autor, “ [Changes in the Wage Structure and Earnings Inequality" (PDF - 6.2MB)](https://economics.mit.edu/files/11676), chapter 26 in \[HOLE 3A\].
 
 (M) T. Lemieux, “[The Changing Nature of U.S. Wage Inequality](http://www.nber.org/papers/w13523),” _J. of Population Economics_, 2007.
 
-D. Autor, L. Katz, and M. Kearney, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Trends in U.S. Wage Inequality: Revising the Revisionists (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.90.2.300),” _The Review of Economics and Statistics_, May 2008. (M)
+D. Autor, L. Katz, and M. Kearney, “ [Trends in U.S. Wage Inequality: Revising the Revisionists (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.90.2.300),” _The Review of Economics and Statistics_, May 2008. (M)
 
-E. Saez and T. Piketty, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Income Inequality in the United States: 1913-1998 (PDF)](https://eml.berkeley.edu/~saez/pikettyqje.pdf)," _Quarterly Journal of Economics_, February 2003 (and web updates on [Saez home page](https://eml.berkeley.edu/~saez/)).
+E. Saez and T. Piketty, “ [Income Inequality in the United States: 1913-1998 (PDF)](https://eml.berkeley.edu/~saez/pikettyqje.pdf)," _Quarterly Journal of Economics_, February 2003 (and web updates on [Saez home page](https://eml.berkeley.edu/~saez/)).
 
-W. Kopczuk, E. Saez, and J. Song, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Earnings Inequality and Mobility in the United States: Evidence From Social Security Data Since 1937 (PDF)](https://eml.berkeley.edu/~saez/kopczuk-saez-songQJE10mobility.pdf),” _The QJE_, 125(1), February 2010.
+W. Kopczuk, E. Saez, and J. Song, “ [Earnings Inequality and Mobility in the United States: Evidence From Social Security Data Since 1937 (PDF)](https://eml.berkeley.edu/~saez/kopczuk-saez-songQJE10mobility.pdf),” _The QJE_, 125(1), February 2010.
 
-M. Elsby, B. Hobijn, and A. Sahin, “[The Labor Market in the Great Recession](http://www.nber.org/papers/w15979),” _BPEA_ Spring 2010 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[2011 update (PDF - 1.2MB)](https://www.brookings.edu/wp-content/uploads/2011/09/2011b_bpea_elsby.pdf))
+M. Elsby, B. Hobijn, and A. Sahin, “[The Labor Market in the Great Recession](http://www.nber.org/papers/w15979),” _BPEA_ Spring 2010 ([2011 update (PDF - 1.2MB)](https://www.brookings.edu/wp-content/uploads/2011/09/2011b_bpea_elsby.pdf))
 
 C.B. Mulligan, “[Do Welfare Policies Matter for Labor Market Aggregates? Quantifying Safety Net Work Incentives Since 2007](http://www.nber.org/papers/w18088),” NBER Working Paper 18088 (May 2012).
 
@@ -71,7 +71,7 @@ J. Rothstein, "[The Labor Market Four Years Into the Crisis: Assessing Structura
 
 H. Farber, “[Employment, Hours, and Earnings Consequences of Job Loss; US Evidence from the Displaced Workers Survey](http://www.journals.uchicago.edu/doi/abs/10.1086/692353),” _JOLE_ 35 S1 (July 2017).
 
-D. Autor, “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Why Are There Still So Many Jobs? The History and Future of Workplace Automation (PDF)](https://economics.mit.edu/files/11563),” _J. Economic Perspectives_ 29 (Summer 2015), 3-30.
+D. Autor, “[Why Are There Still So Many Jobs? The History and Future of Workplace Automation (PDF)](https://economics.mit.edu/files/11563),” _J. Economic Perspectives_ 29 (Summer 2015), 3-30.
 
  L. Katz and C. Goldin, _The Race Between Education and Technology_, Harvard University Press, 2010. ISBN: 9780674035300.
 
@@ -333,7 +333,7 @@ D. Card, "[The Impact of the Mariel Boatlift on the Miami Labor Market](https://
 
 G. Borjas, R. Freeman, and L. Katz. "[How Much Do Immigrant and Trade Affect Labor Market Outcomes?](https://www.brookings.edu/bpea-articles/how-much-do-immigration-and-trade-affect-labor-market-outcomes/)" Brookings Papers on Economic Activity, no. 1 (1997).
 
-J-S. Pischke, and J. Velling, “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Employment Effects of Immigration to Germany: An Analysis Based on Local Labor Markets (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/003465397557178),” _The Review of Economics and Statistics_ 79 (Nov. 1997), 594-604.
+J-S. Pischke, and J. Velling, “[Employment Effects of Immigration to Germany: An Analysis Based on Local Labor Markets (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/003465397557178),” _The Review of Economics and Statistics_ 79 (Nov. 1997), 594-604.
 
 J. Angrist and A. Kugler, “[Protective or Counter-Productive? Labor Market Institutions and the Effect of Immigration on EU Natives](http://www.nber.org/papers/w8660),” _The Economic Journal_, June 2003.
 
@@ -383,7 +383,7 @@ J. DiNardo and D.S. Lee, “[Economic Impacts of New Unionization on US Private 
 
 D. Lee and A. Mas, “[Long-run Impacts of Unions on Firms: New Evidence from Financial Markets, 1961-1999](http://www.nber.org/papers/w14709),” _The Quarterly Journal of Economics_, 2012, 127(1), 333-378.
 
-B. Frandsen, “ ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Surprising Impacts of Unionization: Evidence from Matched Employer- Employee Data (PDF)](https://www.semanticscholar.org/paper/THE-SURPRISING-IMPACTS-OF-UNIONIZATION-%3A-EVIDENCE-%E2%88%97-Frandsen/fec489629781e0e77ed2978a168f2c6b08b89245),” BYU Economics Department, Manuscript, December 2014. (M)
+B. Frandsen, “ [The Surprising Impacts of Unionization: Evidence from Matched Employer- Employee Data (PDF)](https://www.semanticscholar.org/paper/THE-SURPRISING-IMPACTS-OF-UNIONIZATION-%3A-EVIDENCE-%E2%88%97-Frandsen/fec489629781e0e77ed2978a168f2c6b08b89245),” BYU Economics Department, Manuscript, December 2014. (M)
 
 B. Frandsen, “[The Effects of Collective Bargaining Rights on Public Employee Compensation: Evidence from Teachers, Fire Fighters, and Police](http://journals.sagepub.com/doi/abs/10.1177/0019793915603068),” _The Industrial and Labor Relations Review_, 2016. (M)
 
@@ -453,7 +453,7 @@ Z. Griliches, “[Estimating the Returns to Schooling: Some Econometric Problems
 
 J.D. Angrist and A. Krueger, "[Does Compulsory Schooling Attendance Affect Schooling and Earnings?](https://www.jstor.org/stable/2937954?seq=1#page_scan_tab_contents)" _Quarterly Journal of Economics,_ 106\[4\], Nov 1991, 979-1014.
 
-K. Lang, “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Ability Bias, Discount Rate Bias, and the Returns to Schooling (PDF)](http://people.bu.edu/lang/ability.pdf),” Boston University mimeo, 1993.
+K. Lang, “[Ability Bias, Discount Rate Bias, and the Returns to Schooling (PDF)](http://people.bu.edu/lang/ability.pdf),” Boston University mimeo, 1993.
 
 D. Card, "[Earnings, Schooling, and Ability Revisited](http://www.nber.org/papers/w4832)," in: S. Polachek, ed. _Research in Labor Economics_, 14, 1995, 23-48.
 
@@ -503,7 +503,7 @@ Second Half of the Class with Prof. Daron Acemoglu
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262027700) Cahuc, Pierre, Stéphane Carcillo, and André Zylberberg. _Labor Economics, Second Edition_. MIT Press, 2014. ISBN:  9780262027700.
 
- You may also want to consult the ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[lecture notes (PDF - 2.3MB)](https://economics.mit.edu/files/4689) by Daron Acemoglu and David Autor, though these do not cover all our material. 
+ You may also want to consult the [lecture notes (PDF - 2.3MB)](https://economics.mit.edu/files/4689) by Daron Acemoglu and David Autor, though these do not cover all our material. 
 
 Note: An \* indicates a recommended reading. 
 
@@ -593,7 +593,7 @@ Social Mobility
 
 \*Solon, Gary “[Intergenerational Income Mobility in the United States](http://www.jstor.org/stable/2117312?seq=1#page_scan_tab_contents),” _American Economic Review_ v82, n3 (June 1992): 393-408
 
-Zimmerman, David J. “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Regression Toward Mediocrity in Economic Stature (PDF - 1.2MB)](http://www.uh.edu/~adkugler/Zimmerman.pdf)” _American Economic Review_ v82, n3 (June 1992): 409-29
+Zimmerman, David J. “[Regression Toward Mediocrity in Economic Stature (PDF - 1.2MB)](http://www.uh.edu/~adkugler/Zimmerman.pdf)” _American Economic Review_ v82, n3 (June 1992): 409-29
 
 Mulligan Casey, _Parental Priorities and Economic Inequality_, (1997) University of Chicago Press. ISBN: 9780226548401.
 
@@ -607,7 +607,7 @@ Roback, Jennifer (1982) “[Wages, Rents and the Quality of Life](https://www.js
 
 \*Galor, Oded and Joseph Zeira (1993) “[Income Distribution and Macroeconomics](https://academic.oup.com/restud/article-abstract/60/1/35/1576085).” _Review of Economic Studies_, 60, pp. 35-52.
 
-\*Benabou, Roland (1996) “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Heterogeneity, Stratification and Growth: Macroeconomic Implications of Community Structure in School Finance (PDF - 3.2MB)](https://www.princeton.edu/~rbenabou/papers/papers/AER1996.pdf)” _American Economic Review_ Vol. 86, No. 3, pp. 584-609.
+\*Benabou, Roland (1996) “[Heterogeneity, Stratification and Growth: Macroeconomic Implications of Community Structure in School Finance (PDF - 3.2MB)](https://www.princeton.edu/~rbenabou/papers/papers/AER1996.pdf)” _American Economic Review_ Vol. 86, No. 3, pp. 584-609.
 
 Fernandez, Racquel and Richard Rogerson (1996) “[Income Distribution, Communities and the Quality of Public Education](http://www.nber.org/papers/w4158),” _Quarterly Journal of Economics_ 111(1), 135-164.
 
@@ -643,7 +643,7 @@ Angrist, Joshua (2014) “[The Perils of Peer Effects](http://www.nber.org/paper
 
 Zimmerman, David (2003) “[Peer Effects in Higher Education: Evidence from a Natural Experiment](https://www.mitpressjournals.org/doi/abs/10.1162/003465303762687677),” _Review of Economics and Statistics_, 85, 9-23.
 
-Lyle, David (2007) “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Estimating and Interpreting Peer and Role Model Effects from Randomly Assigned Social Groups at West Point (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.89.2.289)” Review of Economics and Statistics, 89, 289-299.
+Lyle, David (2007) “[Estimating and Interpreting Peer and Role Model Effects from Randomly Assigned Social Groups at West Point (PDF)](https://www.mitpressjournals.org/doi/pdf/10.1162/rest.89.2.289)” Review of Economics and Statistics, 89, 289-299.
 
 Mas, Alex and Enrico Moretti (2009) “[Peers at Work](https://www.aeaweb.org/articles?id=10.1257/aer.99.1.112)” _American Economic Review_, American Economic Association, vol. 99(1), pages 112-45, March.
 
@@ -865,7 +865,7 @@ Unemployment, Non-Employment and Labor Market Flows
 
 \*Nickell, Steve (1997) “[Unemployment and Labor Market Rigidities: Europe versus North America](https://www.jstor.org/stable/2138184?seq=1#page_scan_tab_contents),” _Journal of Economic Perspectives_, Vol 11, pp. 55-74.
 
-Shimer, Robert (1998) “![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Why Is the U.S. Unemployment Rate So Much Lower? (PDF)](http://www.nber.org/chapters/c11245.pdf)” _Macroeconomics Annual_, 1998.
+Shimer, Robert (1998) “[Why Is the U.S. Unemployment Rate So Much Lower? (PDF)](http://www.nber.org/chapters/c11245.pdf)” _Macroeconomics Annual_, 1998.
 
 \*Juhn, Chinhui, Kevin Murphy and Robert H. Topel, (1991) “[Why Has the Natural Rate of Unemployment Increased over Time?](https://www.brookings.edu/bpea-articles/why-has-the-natural-rate-of-unemployment-increased-over-time/)" _Brookings Papers on Economic Activity_, 1991(2) pp.75- 126.
 
